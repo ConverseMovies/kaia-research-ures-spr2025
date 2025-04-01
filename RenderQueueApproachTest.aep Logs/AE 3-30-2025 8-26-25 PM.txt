@@ -1,0 +1,17 @@
+Adobe After Effects v25.1 Windows 64 render log for project “RenderQueueApproachTest.aep”
+
+Rendering started on 3/30/2025 at 8:26:25 PM
+
+  3/30/2025 8:26:25 PM: Starting composition “Egger_Gavin_RythmicRenditions_v2”.
+
+  Output To: C:\Users\gavin\Desktop\kaia-research-ures-spr2025\afterEffectsGroupFrameExporter\Output\DIFFERENT_A_[###].png  After Effects warning: Undo group mismatch, will attempt to fix.  3/30/2025 8:26:26 PM: Finished composition “Egger_Gavin_RythmicRenditions_v2”.
+
+
+  3/30/2025 8:26:26 PM: Starting composition “Egger_Gavin_RythmicRenditions_v2”.
+
+  Output To: C:\Users\gavin\Desktop\kaia-research-ures-spr2025\afterEffectsGroupFrameExporter\Output\DIFFERENT_B_[###].png    3/30/2025 8:26:37 PM: Finished composition “Egger_Gavin_RythmicRenditions_v2”.
+
+
+  Total Time Elapsed: 12 Seconds
+Log closed on 3/30/2025 at 8:26:37 PM
+
